@@ -1,8 +1,8 @@
 # README
-[![Build Status](https://semaphoreci.com/api/v1/fybwid/rails-bdd/branches/master/shields_badge.svg)](https://semaphoreci.com/fybwid/rails-bdd)
-[![Build Status](https://travis-ci.org/fybwid/rails-bdd.svg?branch=master)](https://travis-ci.org/fybwid/rails-bdd)
-[ ![Codeship Status for fybwid/rails-bdd](https://app.codeship.com/projects/eeb4b470-8579-0135-763e-229a8d5fb755/status?branch=master)](https://app.codeship.com/projects/247933)
-[![Coverage Status](https://coveralls.io/repos/github/fybwid/rails-bdd/badge.svg?branch=master)](https://coveralls.io/github/fybwid/rails-bdd?branch=master)
+[![Build Status](https://semaphoreci.com/api/v1/fybwid/digro/branches/master/badge.svg)](https://semaphoreci.com/fybwid/digro)
+[![Build Status](https://travis-ci.org/fybwid/digro.svg?branch=master)](https://travis-ci.org/fybwid/digro)
+[ ![Codeship Status for fybwid/digro](https://app.codeship.com/projects/70907120-863c-0135-929f-46ca0532533c/status?branch=master)](https://app.codeship.com/projects/248092)
+[![Coverage Status](https://coveralls.io/repos/github/fybwid/digro/badge.svg?branch=master)](https://coveralls.io/github/fybwid/digro?branch=master)
 
 ## Prerequisites
 * Ruby: 2.4.0p0
